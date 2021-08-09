@@ -1,7 +1,7 @@
 {
   "project": {
-    "name": "__app_slug__",
-    "description": "__app_description__",
+    "name": "g_net",
+    "description": "This app provide system that allow join to team in videogames",
     "version": "0.0.1"
   }
 }
