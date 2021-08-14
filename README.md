@@ -1,4 +1,4 @@
-# ****G-net****
+# ****ThrowBox****
 
 > :alembic: **This app provide system that allow join to team in videogames**
 
