@@ -49,6 +49,8 @@ echo "[TODO] Describe how to execute Unit Tests"
 ## :bust_in_silhouette: Authors
 
 * AminovE99
+* CerTunia
+* paperdevil
 
 ## :thumbsup: Show your support
 
